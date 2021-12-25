@@ -4,3 +4,8 @@
 # Doces_da_Jeh
 Página para uma doceria.
 
+## Página Responsiva,
+## Logo desenvolvido no Inskape,
+
+
+https://docesdajeh.netlify.app/
