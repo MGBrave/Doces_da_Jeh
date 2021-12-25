@@ -1,5 +1,6 @@
-![Image](../blob/master/public_html/img/nokia.png?raw=true)
+![Image](https://github.com/martageraldo/Doces_da_Jeh/blob/main/cel.png?raw=true)
 
 
 # Doces_da_Jeh
 Página para uma doceria.
+
